@@ -1,0 +1,6 @@
+{
+  "name": "Yalla Ludo - Official Commercial Showcase",
+  "description": "Premium promotional advertisement and interactive showcase for Yalla Ludo, the premier social board-game and real-time voice chat app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
